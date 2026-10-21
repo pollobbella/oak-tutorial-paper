@@ -1,11 +1,10 @@
 ---
 abstract: |
-  Replace this with your abstract. It is lifted into the site, the PDF cover page and the Zenodo
-  deposit.
+  A practice paper for the Impact Scholars workshop. Each team adds a paragraph to it in a pull request.
 ---
 
-# A Starter Paper
+# A Practice Paper
 
 ## Introduction
 
-Your paper content goes here. Cite your bibliography like this [@example2026].
+This paper exists so that you can practise changing one. Its text comes from `index.md`, and its title and authors come from `myst.yml` [@example2026].
